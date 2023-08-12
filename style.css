@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+
+body
+{
+    color: black;
+    background : skyblue ;
+    font-weight  : bold  ;
+}
+
+
+hr
+{
+    width : 75% ;
+    background : red;
+}
+
+
+
+
+td
+{
+    background : linear-gradient(135deg , red 15%, yellow 60% , skyblue 25% ) ;
+    width :  10% ;
+    height : 40px ;
+}
+
+
+tr , hr
+{
+    align : center ;
+}
