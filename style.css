@@ -24,3 +24,12 @@ tr , hr
 {
     box-align : center ;
 }
+
+
+.footer{
+    text-align : center ;
+    margin-top : 2em;
+    padding : 1em 0 ;
+    background : #00ffae ;
+    clear : both ;
+}
