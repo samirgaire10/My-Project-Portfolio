@@ -12,7 +12,9 @@ This will  Link my others projests in  one Home page🙂🙂🙂
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirgaire10)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirgaire10&show_icons=true&theme=tokyonight)](https://github.com/samirgaire10)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirgaire10&show_icons=true&theme=tokyonight&layout=pie)](https://github.com/samirgaire10)
 
 
 
